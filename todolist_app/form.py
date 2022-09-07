@@ -1,4 +1,3 @@
-from socket import fromshare
 from django import forms
 from todolist_app.models import Tasklist
 
